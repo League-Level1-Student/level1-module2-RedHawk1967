@@ -4,13 +4,29 @@ public class Methods {
 
 
 
-	void food(String fruit) {
-fruit="apples";
+	void food() {
 	       System.out.println("I like " + fruit); 
 
 	}
 
 
 
+
+
+food("apples");
+
+
+
 }
+
+
+truth(2)
+
+
+for (int i = 0; i <=2; i++) {
+drawLine()	
+}
+
+
+
 
